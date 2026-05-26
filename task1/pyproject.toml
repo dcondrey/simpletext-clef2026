@@ -1,0 +1,17 @@
+[project]
+name = "simpletext-task1"
+version = "1.0.0"
+description = "SimpleText Task 1: Simplify Scientific Text (CLEF 2026)"
+requires-python = ">=3.11"
+
+dependencies = [
+    "anthropic>=0.40",
+    "easse",
+    "google-genai>=2.5.0",
+    "openai>=1.0",
+    "scikit-learn>=1.8.0",
+    "tqdm>=4.65",
+]
+
+[tool.uv.sources]
+easse = { git = "https://github.com/feralvam/easse.git" }
