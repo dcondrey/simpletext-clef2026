@@ -1,9 +1,14 @@
-# Writerslogic at the CLEF 2026 SimpleText Track
+<!-- repo-header:start -->
+<img src="https://github.com/dcondrey.png?size=160" alt="Writerslogic at the CLEF 2026 SimpleText Track logo" width="120" align="left">
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![CLEF 2026 SimpleText](https://img.shields.io/badge/CLEF%202026-SimpleText-orange.svg)](http://simpletext-project.com/2026/)
+<h1>Writerslogic at the CLEF 2026 SimpleText Track</h1>
 
-Team `writerslogic` submission to the **CLEF 2026 SimpleText** track — Task 1 (scientific text simplification) and Task 2 (identify and avoid hallucination). Evaluated on English and multilingual biomedical text from Cochrane systematic reviews.
+<p><strong>CLEF 2026 SimpleText: multi-candidate LLM simplification (SARI 47.43) + DeBERTa/LightGBM overgeneration detection (2nd place, Task 2).</strong></p>
+
+<br clear="left">
+
+[![Best Practices Evidence](https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a)](.bestpractices.json) [![License](https://img.shields.io/github/license/dcondrey/simpletext-clef2026?style=flat-square&labelColor=20232a&color=007ec6&label=license)](https://github.com/dcondrey/simpletext-clef2026/blob/main/LICENSE) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a)](https://github.com/sponsors/dcondrey)
+<!-- repo-header:end -->
 
 ## Official Results
 
