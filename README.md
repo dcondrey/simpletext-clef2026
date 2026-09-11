@@ -1,14 +1,16 @@
 <!-- repo-header:start -->
-<img src="https://github.com/dcondrey.png?size=160" alt="Writerslogic at the CLEF 2026 SimpleText Track logo" width="120" align="left">
+<h3 align="center">Writerslogic at the CLEF 2026 SimpleText Track</h3>
 
-<h1>Writerslogic at the CLEF 2026 SimpleText Track</h1>
+<p align="center"><strong>CLEF 2026 SimpleText: multi-candidate LLM simplification (SARI 47.43) + DeBERTa/LightGBM overgeneration detection (2nd place, Task 2).</strong></p>
 
-<p><strong>CLEF 2026 SimpleText: multi-candidate LLM simplification (SARI 47.43) + DeBERTa/LightGBM overgeneration detection (2nd place, Task 2).</strong></p>
-
-<br clear="left">
-
-[![Best Practices Evidence](https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a)](.bestpractices.json) [![License](https://img.shields.io/github/license/dcondrey/simpletext-clef2026?style=flat-square&labelColor=20232a&color=007ec6&label=license)](https://github.com/dcondrey/simpletext-clef2026/blob/main/LICENSE) [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a)](https://github.com/sponsors/dcondrey)
+<p align="center">
+  <a href=".bestpractices.json"><img src="https://img.shields.io/badge/best%20practices-evidence%20reviewed-6a4c93?style=flat-square&labelColor=20232a" alt="Best Practices Evidence"></a>
+  <a href="https://github.com/dcondrey/simpletext-clef2026/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dcondrey/simpletext-clef2026?style=flat-square&labelColor=20232a&color=007ec6&label=license" alt="License"></a>
+  <a href="https://github.com/sponsors/dcondrey"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=flat-square&labelColor=20232a" alt="GitHub Sponsors"></a>
+</p>
 <!-- repo-header:end -->
+
+---
 
 ## Official Results
 
